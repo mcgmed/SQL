@@ -1,3 +1,3 @@
 # SQL
 
-MY exercises from https://www.sqlitetutorial.net/
+My exercises from https://www.sqlitetutorial.net/ and some other resources.
